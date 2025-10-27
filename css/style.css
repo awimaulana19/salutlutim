@@ -2272,3 +2272,14 @@ h4,
   transform: translateY(-50%);
   left: 15px;
 }
+
+/* #foto-maba.overlay:before {
+  position: absolute;
+  content: "";
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background: rgba(60, 58, 58, 0.85);
+  z-index: -0;
+} */
